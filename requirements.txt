@@ -1,0 +1,11 @@
+autogen-agentchat
+langchain
+openai
+neo4j
+psycopg2-binary
+pgvector
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langsmith
